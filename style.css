@@ -1202,9 +1202,9 @@ footer p a:hover{
         height: 381px;
     }
 }
-@media(max-width:420px){
+@media(max-width:422px){
     .mission2{
-        height: 630px;
+        height: 635px;
     }
     .items{
         height: 4550px;
