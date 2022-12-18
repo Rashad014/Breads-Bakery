@@ -1167,7 +1167,8 @@ footer p a:hover{
         margin: auto;
     }
     .free5{
-        width: 33%;
+        width: 100%;
+        text-align: center;
     }
     .callin{
         width: 90%;
